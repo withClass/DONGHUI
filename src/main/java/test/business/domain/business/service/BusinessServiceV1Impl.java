@@ -6,7 +6,6 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
-import test.business.domain.business.config.PerLogger;
 import test.business.domain.business.dto.BusinessRes;
 import test.business.domain.business.entity.Business;
 import test.business.domain.business.repository.BusinessRepository;
